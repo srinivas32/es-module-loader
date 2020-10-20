@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 git:
   depth: 1
 language: node_js
